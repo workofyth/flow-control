@@ -1,0 +1,27 @@
+[
+  {
+    "username": "superadmin",
+    "password": "adminpassword",
+    "role": "superadmin",
+    "allowedDags": [
+      "*"
+    ]
+  },
+  {
+    "username": "deyan_nielsen",
+    "password": "1tanab123",
+    "role": "user",
+    "allowedDags": [
+      "nielsen_philippines_dags",
+      "nielsen_vietnam_dags",
+      "nielsen_wafer_roll_dags",
+      "nielsen_india_dags",
+      "nielsen_malaysia_dags",
+      "nielsen_snack_dags",
+      "nielsen_wafer_coated_dags",
+      "nielsen_wafer_flat_dags",
+      "nielsen_softcake_dags",
+      "nielsen_master_convertion_dags"
+    ]
+  }
+]
